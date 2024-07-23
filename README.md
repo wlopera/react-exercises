@@ -1,10 +1,7 @@
-# PROYECTO BANCA PYTHON, REACT Y REACT NATIVE
-
-## App para manejo de usuarios, clientes y transacciones bancarias
-
-documento: doc/Proyecto-react-exercises.docx
-
+# PROYECTO REACT
 Proyecto de estudio de ejercicios de react sin uso de internet.
+documento: doc/Proyecto-exercises.docx
+
 
 ## React - Frontend
 
@@ -43,12 +40,11 @@ Uso de mobx para Tener un almacén común de datos (por ahora mensajes al usuari
 "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "mobx": "^6.12.4",
-    "mobx-react": "^9.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "styled-components": "^6.1.11",
 
 ## Salida:
 
