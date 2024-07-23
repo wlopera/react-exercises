@@ -50,16 +50,12 @@ Uso de mobx para Tener un almacén común de datos (por ahora mensajes al usuari
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
 
-Salida:
+## Salida:
 
-![image](https://github.com/user-attachments/assets/54becf20-1d06-4b59-a494-e39dbd5f1658)
-![image](https://github.com/user-attachments/assets/b06127a4-2b41-4cc8-88e3-ad9eb1bcffc2)
+![image](https://github.com/user-attachments/assets/758e3e9a-cf58-4ba9-8154-b92b5c476070)
 
-Manejo de estilos y colores
-![image](https://github.com/user-attachments/assets/44d44de3-e9a6-4c25-92e0-4aaba50d1148)
-![image](https://github.com/user-attachments/assets/d067a5ab-2ea4-40cc-abc4-919c45400d60)
+![image](https://github.com/user-attachments/assets/7e34b102-2d26-44a5-8a9e-d884f68f2881)
 
-Manejo de errores:
 
 ## Documentación
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
