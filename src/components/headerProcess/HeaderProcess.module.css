@@ -1,0 +1,22 @@
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: lightpink;
+    padding: 10px;
+}
+
+.exercise{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: lightcyan;
+    padding: 10px;
+}

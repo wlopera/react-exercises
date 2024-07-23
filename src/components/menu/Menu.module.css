@@ -1,0 +1,39 @@
+.menu {
+    width: 300px;
+    background-color: #1a64ae;
+    padding: 20px;
+    
+}
+  
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+   
+}
+  
+.menu ul li {
+    padding: 5px 0;
+    cursor: pointer;
+   
+}
+  
+.menu ul li:hover {
+    background-color: #ced4da;
+}
+  
+.title {
+    color: #333;
+    font-weight: bold;
+    background-color: rgb(243, 162, 86);
+}
+
+.notSelected {
+    background-color: #1a64ae;    
+    color: white
+}
+
+.selected {
+    background-color: #04f113;
+    font-weight: bold;
+    color: black
+}

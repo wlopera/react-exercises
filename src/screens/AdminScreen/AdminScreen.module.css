@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.mainWrapper {
+  display: flex;
+  flex: 1;
+  overflow-y: auto; /* Hace que el scroll sea solo para el contenido */
+  padding-top: 36px;
+}
