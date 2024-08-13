@@ -1,10 +1,7 @@
-# PROYECTO BANCA PYTHON, REACT Y REACT NATIVE
-
-## App para manejo de usuarios, clientes y transacciones bancarias
-
-documento: doc/Proyecto-react-exercises.docx
-
+# PROYECTO REACT
 Proyecto de estudio de ejercicios de react sin uso de internet.
+documento: doc/Proyecto-exercises.docx
+
 
 ## React - Frontend
 
@@ -43,21 +40,17 @@ Uso de mobx para Tener un almacén común de datos (por ahora mensajes al usuari
 "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "mobx": "^6.12.4",
-    "mobx-react": "^9.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "styled-components": "^6.1.11",
 
-Salida:
+## Salida:
 
-![image](https://github.com/user-attachments/assets/54becf20-1d06-4b59-a494-e39dbd5f1658)
-![image](https://github.com/user-attachments/assets/b06127a4-2b41-4cc8-88e3-ad9eb1bcffc2)
+![image](https://github.com/user-attachments/assets/758e3e9a-cf58-4ba9-8154-b92b5c476070)
 
-Manejo de estilos y colores
-![image](https://github.com/user-attachments/assets/44d44de3-e9a6-4c25-92e0-4aaba50d1148)
-![image](https://github.com/user-attachments/assets/d067a5ab-2ea4-40cc-abc4-919c45400d60)
+![image](https://github.com/user-attachments/assets/7e34b102-2d26-44a5-8a9e-d884f68f2881)
 
 ![image](https://github.com/user-attachments/assets/02aafa4f-8ab1-4d42-85b9-89e36576ca16)
 ![image](https://github.com/user-attachments/assets/0872b694-b4c7-4f8f-8ed8-4eb0921fca0f)
@@ -68,3 +61,7 @@ Manejo de errores:
 ## Documentación
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
 <a href="https://github.com/wlopera/react-exercises/blob/fa112f2f4713d9aef86cb819a745f839e761b70f/src/doc/Proyecto-exercises.pdf" target="_blank">Ver el PDF del proyecto</a>
+
+## Documentación
+Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
+<a href="https://github.com/wlopera/react-practical-exercises/blob/4b0d75518f989171f8acdea3c04ccf0cc48bb612/src/doc/Proyecto-practical-exercises.pdf" target="_blank">Ver el PDF del proyecto</a>
