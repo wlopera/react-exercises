@@ -146,4 +146,7 @@ const DivForm = styled.div`
   margin-top: 20px;
 `;
 
-const Input = styled.input``;
+const Input = styled.input`
+  height: 4vh;
+  font-size: 20px;
+`;
