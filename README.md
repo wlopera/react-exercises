@@ -61,7 +61,3 @@ Manejo de errores:
 ## Documentación
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
 <a href="https://github.com/wlopera/react-exercises/blob/fa112f2f4713d9aef86cb819a745f839e761b70f/src/doc/Proyecto-exercises.pdf" target="_blank">Ver el PDF del proyecto</a>
-
-## Documentación
-Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
-<a href="https://github.com/wlopera/react-practical-exercises/blob/4b0d75518f989171f8acdea3c04ccf0cc48bb612/src/doc/Proyecto-practical-exercises.pdf" target="_blank">Ver el PDF del proyecto</a>
