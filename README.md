@@ -59,6 +59,10 @@ Manejo de estilos y colores
 ![image](https://github.com/user-attachments/assets/44d44de3-e9a6-4c25-92e0-4aaba50d1148)
 ![image](https://github.com/user-attachments/assets/d067a5ab-2ea4-40cc-abc4-919c45400d60)
 
+![image](https://github.com/user-attachments/assets/02aafa4f-8ab1-4d42-85b9-89e36576ca16)
+![image](https://github.com/user-attachments/assets/0872b694-b4c7-4f8f-8ed8-4eb0921fca0f)
+![image](https://github.com/user-attachments/assets/ad19457e-d0af-45cc-853e-f63e9948a7f3)
+
 Manejo de errores:
 
 ## Documentación
