@@ -8,6 +8,9 @@ import styles from "./AdminScreen.module.css";
 import { menuData } from "../../data/Data";
 import { ImagesComponent } from "../exercises/ImagesComponent/ImagesComponent";
 import { Numbers } from "../exercises/Numbers/Numbers";
+import { ParentComponent } from "../exercises/UseEffectUpdateState/ParentComponent";
+import { UseEffectInitApp } from "../exercises/UseEffectInitApp/UseEffectInitApp";
+import { TasksApp } from "../exercises/ContextComponent/TasksApp";
 
 const AdminScreen = () => {
   const [selectedOption, setSelectedOption] = useState("/react/test");
@@ -19,6 +22,15 @@ const AdminScreen = () => {
 
       case "/matriz/number":
         return <Numbers />;
+
+      case "/useEfect/update/state":
+        return <ParentComponent />;
+
+      case "/useEfect/init/app":
+        return <UseEffectInitApp />;
+
+      case "/tasks/app":
+        return <TasksApp />;
 
       default:
         break;

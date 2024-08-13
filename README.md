@@ -52,6 +52,15 @@ Uso de mobx para Tener un almacén común de datos (por ahora mensajes al usuari
 
 ![image](https://github.com/user-attachments/assets/7e34b102-2d26-44a5-8a9e-d884f68f2881)
 
+![image](https://github.com/user-attachments/assets/02aafa4f-8ab1-4d42-85b9-89e36576ca16)
+![image](https://github.com/user-attachments/assets/0872b694-b4c7-4f8f-8ed8-4eb0921fca0f)
+![image](https://github.com/user-attachments/assets/ad19457e-d0af-45cc-853e-f63e9948a7f3)
+
+Manejo de errores:
+
+## Documentación
+Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
+<a href="https://github.com/wlopera/react-exercises/blob/fa112f2f4713d9aef86cb819a745f839e761b70f/src/doc/Proyecto-exercises.pdf" target="_blank">Ver el PDF del proyecto</a>
 
 ## Documentación
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:

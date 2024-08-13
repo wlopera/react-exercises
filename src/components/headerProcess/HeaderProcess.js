@@ -5,6 +5,7 @@ export const HeaderProcess = ({ title, description, exercise }) => {
   return (
     <div>
       <p className={styles.title}> {title}</p>
+      <p className={styles.description}> {description}</p>
       <p className={styles.exercise}>{exercise}</p>
     </div>
   );
