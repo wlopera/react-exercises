@@ -24,6 +24,11 @@ export const menuData = [
     name: "Agregar Tareas",
     component: "/tasks/app",
   },
+  {
+    key: "js7-order",
+    name: "Crear Orden JS7",
+    component: "/js7/order",
+  },
 ];
 
 const getValues = (max) => {

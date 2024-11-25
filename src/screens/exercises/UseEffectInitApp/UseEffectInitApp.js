@@ -66,7 +66,7 @@ export const UseEffectInitApp = () => {
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-context: center;
+  justify-content: center;
   align-items: center;
   width: 95%;
   padding-left: 40px;

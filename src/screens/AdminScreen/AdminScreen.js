@@ -11,6 +11,7 @@ import { Numbers } from "../exercises/Numbers/Numbers";
 import { ParentComponent } from "../exercises/UseEffectUpdateState/ParentComponent";
 import { UseEffectInitApp } from "../exercises/UseEffectInitApp/UseEffectInitApp";
 import { TasksApp } from "../exercises/ContextComponent/TasksApp";
+import { JS7Order } from "../exercises/JS7Order/JS7Order";
 
 const AdminScreen = () => {
   const [selectedOption, setSelectedOption] = useState("/react/test");
@@ -31,6 +32,9 @@ const AdminScreen = () => {
 
       case "/tasks/app":
         return <TasksApp />;
+
+      case "/js7/order":
+        return <JS7Order />;
 
       default:
         break;

@@ -59,7 +59,7 @@ export const ImagesComponent = () => {
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-context: center;
+  justify-content: center;
   align-items: center;
 `;
 
